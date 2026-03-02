@@ -1,4 +1,4 @@
 # git-training
-Apprentissage complet de Git et GitHub avec bonnes pratiques.
+Apprentissage complet et intensif de Git et GitHub en environnement professionnel.
 ## Objectif
-Apprendre Git sérieusement avec workflow professionnel.
+Apprentissage avance de git et github en equipe.
