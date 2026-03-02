@@ -1,4 +1,4 @@
 # git-training
-Apprentissage de Git et GitHub avec travail collaboratif.
+Apprentissage intensif de Git et GitHub en environnement professionnel.
 ## Objectif
 Apprentissage avance de git et github en equipe.
